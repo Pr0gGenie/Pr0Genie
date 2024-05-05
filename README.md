@@ -56,17 +56,6 @@
 <!--- trophy (start) -->
 
 
-</p>        
-<!--- stats (end) -->
-
-<!-- Tech stack icons -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ai,pytorch,tensorflow,keras&perline=14" />
-  </a>
-</p>
-
-
 <!--profile visit count-->
 <div align="center">
   
